@@ -210,3 +210,4 @@ pyrightconfig.json
 .DS_Store
 
 train_val_updated/
+plankton_data/
