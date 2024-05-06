@@ -211,4 +211,4 @@ pyrightconfig.json
 
 train_val_updated/
 plankton_data/
-.keras
+*.keras
