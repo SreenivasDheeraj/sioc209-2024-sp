@@ -212,3 +212,4 @@ pyrightconfig.json
 train_val_updated/
 plankton_data/
 *.keras
+08_project/*.png
